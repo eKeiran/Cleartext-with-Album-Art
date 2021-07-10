@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/34791715/125169751-35aae380-e1c9-11eb-9442-3e35f2e585dc.png)
 
 
-# Cleartext-with-Album-Art-
+# Cleartext with Album Art
 
 Cleartext by Redsaph but with Album Art and Album Info! 
 Working with the following players:  AIMP,  Foobar2000, iTunes, Spotify, JRiver Media Center, Windows Media Player and also web player's on the browser such as YouTube, SoundCloud, BandCamp, Twitch, VK etc.
