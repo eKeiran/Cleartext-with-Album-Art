@@ -1,5 +1,8 @@
+![image](https://user-images.githubusercontent.com/34791715/125169751-35aae380-e1c9-11eb-9442-3e35f2e585dc.png)
+
+
 # Cleartext-with-Album-Art-
-This is a rainmeter skin which can work with multiple players (AIMP, Foobar2000, iTunes, Spotify, JRiver Media Center, Windows Media Player and also web player's on the browser such as YouTube, SoundCloud, BandCamp, Twitch, VK etc.) and show album art and info as well.  Please download from DeviantArt. 
+
 Cleartext by Redsaph but with Album Art and Album Info! 
 Working with the following players:  AIMP,  Foobar2000, iTunes, Spotify, JRiver Media Center, Windows Media Player and also web player's on the browser such as YouTube, SoundCloud, BandCamp, Twitch, VK etc.
 I got sick of the Spotify API breaking all the time and not supporting Album Info so I shifted to getting my current track info from last.fm which is a lot smoother and has been stable for years, plus a lot players can scrobble (send current track info) to last.fm and be controlled by Rainmeter at the same time, making it convenient to shift. So this skin gets all the info from last.fm but can control various players meanwhile those players share the current track info to last.fm and yeah, you get the idea.
